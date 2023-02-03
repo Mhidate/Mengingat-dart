@@ -1,6 +1,6 @@
 # Mengingat-dart
 
-Repo untuk latihan dart dan mengingat kembali pelajaran waktu di kampus dulu
+Repo untuk latihan dart dan mengingat kembali pelajaran dart
 
 *untuk menjalankan file lewat visual studio code*
 1. install eksistensi yang dibutuhkan
